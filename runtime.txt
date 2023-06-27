@@ -1,0 +1,4 @@
+Python == 3.10.11
+.\fastml\Scripts\activate   #activation de fastapi
+pip install uvicorn gunicorn fastapi pydantic sklearn pandas #intallation des dependance necessaires
+uvicorn rgaApi:app --reload #lance l'api rgaApi

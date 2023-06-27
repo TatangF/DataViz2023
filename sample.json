@@ -1,0 +1,33 @@
+{
+    'echelle'   : "ca_du_pays_basque, Garazi Baigorri, Soule Xiberoa, Errobi, Amikuze
+    Sud Pays Basque,Pays d'Hasparren, Iholdi Oztibarre, Pays de Bidache, Nive Adour
+    Cote Basque Adour" 
+    'categorie' : "Cheptel,Valorisation,Otex commune,Otex, Surface, Age,Main d'oeuvre,
+    Evolution,Statut exploitation,Taille exploitation,Devenir exploitation,
+    Nombre exploitation" // non-null   object 
+    'Types' : "ovins ou caprins,polyculture et/ou polyélevage,M,F,
+    équidés et/ou autres herbivores,SAU moyenne (ha),PBS totale (k€),
+    âge moyen des chefs d'exploitation,nombre d'exploitations non concernées,non classées " //non-null   object 
+    'annee': 1970 a 2020//2561 non-null   float64
+    'valeur': '29.0' //2561 non-null float64
+    'sau_tot_ha': 22334.180606 //2561 non-null   float64
+    'sau_moy_ha':19.669191 //2561 non-null   float64
+    'sau_ha': 2918.642611 //2561 non-null   float64
+    'ugb':5458.289914//2561 non-null   float64
+    'etp':55//2561 non-null   float64
+    "pbs":  49//2561 non-null   float64
+    'age_5':13//2561 non-null   float64
+    'tetes':100//2561 non-null   float64
+    'bio':245//2561 non-null   float64
+    'surface':34//2561 non-null   float64
+    'irrigation': 45// float64
+    'nombre_exploitation_bio':34//float64
+    'surface_bio' :45//float64
+    'otefdd_coef17':34// float64
+    'code_insee':64210//float64
+    'commune'://object 
+    'Geo_Shape ':  '' //object 
+    'geo_point_2d':''  //object 
+    'latitude':''// float64
+    'longitude' :''     //   float64
+}

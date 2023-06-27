@@ -1,0 +1,1 @@
+web: gunivcorn -w 2 -k uvicorn.workers.UvicornWorkers regaApi.py
