@@ -1,0 +1,6 @@
+# DataViz challenge : Analyse et IA
+## Recensement agricole 2020 (Cas du pays de Basques)
+## Vous trouverez l'objectif de ce challenge [ICI](https://zabal-agriculture.opendata-paysbasque.fr/explore/dataset/rga-2020-dataviz-challenge-copie/information/?disjunctive.echelle&disjunctive.categorie&disjunctive.type&disjunctive.annee&disjunctive.age_5&dataChart=eyJxdWVyaWVzIjpbeyJjb25maWciOnsiZGF0YXNldCI6InJnYS0yMDIwLWRhdGF2aXotY2hhbGxlbmdlLWNvcGllIiwib3B0aW9ucyI6eyJkaXNqdW5jdGl2ZS5lY2hlbGxlIjp0cnVlLCJkaXNqdW5jdGl2ZS5jYXRlZ29yaWUiOnRydWUsImRpc2p1bmN0aXZlLnR5cGUiOnRydWUsImRpc2p1bmN0aXZlLmFubmVlIjp0cnVlLCJkaXNqdW5jdGl2ZS5hZ2VfNSI6dHJ1ZX19LCJjaGFydHMiOlt7ImFsaWduTW9udGgiOnRydWUsInR5cGUiOiJjb2x1bW4iLCJmdW5jIjoiQVZHIiwieUF4aXMiOiJ2YWxldXIiLCJzY2llbnRpZmljRGlzcGxheSI6dHJ1ZSwiY29sb3IiOiIjQ0EzMjM0In1dLCJ4QXhpcyI6ImVjaGVsbGUiLCJtYXhwb2ludHMiOjUwLCJzb3J0IjoiIn1dLCJ0aW1lc2NhbGUiOiIiLCJkaXNwbGF5TGVnZW5kIjp0cnVlLCJhbGlnbk1vbnRoIjp0cnVlfQ%3D%3D&location=9,43.24981,-1.26903&basemap=jawg.streets))
+
+
+apres avoire cloner le projet, pour faire fonctioner uvicorn sur votre systeme il faut ouvri le fichier runtime.txt et commencer l'execution en bash a partir de la deuxieme ligne. 
