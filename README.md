@@ -4,3 +4,5 @@
 
 
 apres avoire cloner le projet, pour faire fonctioner uvicorn sur votre systeme il faut ouvri le fichier runtime.txt et commencer l'execution en bash a partir de la deuxieme ligne. 
+
+Je vous invite à lire et à  [télécharger](https://github.com/TatangF/DataViz2023/blob/master/Rapport_DataViz_Tatang_Fomekon_Ferol_2023.pdf) le rapport.
