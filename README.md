@@ -54,6 +54,10 @@ L’objectif du projet est d’analyser les données agricoles du Pays Basque (i
 - **Prédiction précise des rendements agricoles** pour aider à la planification stratégique.
 - **Visualisation claire des tendances historiques et des projections futures**.
 
+## Distinction
+Je suis fier d’avoir été **finaliste du Dataviz Challenge 2023** ! 🎉
+Retrouvez les résultats officiels [ICI](https://agriculture-opendatapaysbasque.opendatasoft.com/pages/datavizchallengeresultat/).
+
 ## Compétences Mobilisées
 - **Data Cleaning**, **EDA**, **Machine Learning** (Scikit-Learn).
 - **Data Visualization** (Matplotlib, Seaborn, Plotly).
